@@ -1,0 +1,30 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:3px #036ffc solid;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body
+{
+background-image:url("9b476f-20200414004429_1.jpg") ;
+background-color:#036ffc ;
+color: #036ffc;
+background-size: 1500px;
+}
+
+
+
+
